@@ -4,8 +4,8 @@ A Retrieval-Augmented Generation (RAG) app that helps you search, understand, an
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://vashurathour.github.io/RAG-Research-Paper-Assistant/)
 
-🔗 **Live App:** [https://vashurathour.github.io/RAG-Research-Paper-Assistant/](https://vashurathour.github.io/RAG-Research-Paper-Assistant/)  
-🤗 **Hugging Face Space:** [https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE-NAME](https://va3hu-rag-research-paper-assistant.hf.space)
+🔗 **Live App:** [Demo](https://vashurathour.github.io/RAG-Research-Paper-Assistant/)  
+🤗 **Hugging Face Space:** [Demo](https://va3hu-rag-research-paper-assistant.hf.space)
 
 ## Features
 - Upload research papers (PDF)
